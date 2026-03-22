@@ -16,7 +16,7 @@ Our App uses face-tracking technology provided by Snap Inc. to position AR Lense
 *   **No Collection:** We **do not** collect, store, or share any biometric identifiers or facial data.
 
 ## 3. Third-Party Services
-This App utilizes **Camera Kit**, a service provided by Snap Inc. By using these AR features, you agree to the processing of data as described in the [Snap Privacy Policy]([https://www.snap.com](https://values.snap.com/privacy/privacy-policy)).
+This App utilizes **Camera Kit**, a service provided by Snap Inc. By using these AR features, you agree to the processing of data as described in the [Snap Privacy Policy]([https://www.snap.com](https://values.snap.com/privacy/privacy-policy])).
 
 ## 4. Children's Privacy
 We do not knowingly collect any personal information from children. Since no data is collected by this App, we are compliant with general child privacy protections.
