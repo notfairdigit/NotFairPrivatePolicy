@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last Updated:** 2024-05-22
+**Last Updated:** 2026-03-22
 
 This Privacy Policy explains how our application (the "App") handles information when you use our Augmented Reality (AR) features powered by **Snapchat Camera Kit**.
 
